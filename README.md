@@ -8,6 +8,7 @@
   ## Table of Contents
   - [Installation](#installation)
   - [Questions](#questions)
+  - [Contributors](#contributors)
 
   ## Installation 
   npm i , npm start if running on local host 
@@ -17,9 +18,10 @@
   Github: https://github.com/Landonwilson1 </br>
   Email: Landonjwilson1@gmail.com
   
+  ## Contributors
+
+  Rahul Bhatia -  GitHub: [Template](https://github.com/rbhatia46/React-Portfolio)
+
   
   ![Portfolio](screenshotPort.png)
-
-
-
 
