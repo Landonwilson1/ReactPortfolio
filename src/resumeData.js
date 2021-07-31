@@ -71,6 +71,12 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Proximo",
+        "description":"",
+        "imgurl":"images/blooming-wildwood-24520.herokuapp.com_dashboard.png",
+        "url":"https://blooming-wildwood-24520.herokuapp.com/dashboard"
+      },
+      {
         "name":"Stay Buzzin",
         "description":"",
         "imgurl":"images/staybuzzin.herokuapp.com_.png",
@@ -97,7 +103,7 @@ let resumeData = {
         "imgurl":"images/localhost_3001_notes (1).png"
       },
       {
-        "name":"Employee Tracke",
+        "name":"Employee Tracker",
         "description":"",
         "imgurl":"images/employee-tracker.png"
       }
