@@ -4,11 +4,11 @@ let resumeData = {
     "role": "Full Stack Web Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": " I am expected to graduate UCF's Coding Boot Camp in August. I have learned the necessary tools and skills to work as a  professional Full Stack Dev.",
+    "roleDescription": "Graduate from UCF's Coding Boot Camp. Full Stack Web Developer and Human Factors Engineer with a passion for integrating creativity and efficiency.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/landon-wilson-37a29416b/",
           "className":"fa fa-linkedin"
         },
         {
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"My name is Landon Wilson. I am a Full Stack Web Developer and Human Factors Engineer. I am enthusiastic about learning new technologies, writing technical articles, and dabbling in various parts of frontal development. My mission is to bring unique ideas and creativity to web design while creating a positive experience for the user.",
+    "aboutme":"Recently received a full stack development certificate from the University of Central Florida; developed new skills in JavaScript, CSS, and React.js. Known as a team player, conversationalist, and natural leader. I bring creative ideas to the table to create mobile-first design for innovative and exciting applications.  As an eager learner, I am excited to use my technical skills and collaborative nature to write cleaner code, identify errors, and help your team continue to develop novel, and inspiring work.",
     "address":"Landonjwilson1@gmail.com",
     "website":"Landonwilson1.github.io",
     "education":[
