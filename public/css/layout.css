@@ -516,6 +516,21 @@ ul#nav li.current a { color: yellow; }
 	filter:alpha(opacity=100);
 }
 
+.portfolio-item:hover {
+   -moz-transform: scale(1.01);
+   -webkit-transform: scale(1.01);
+   -o-transform: scale(1.01);
+   -ms-transform: scale(1.01);
+   -webkit-transform: scale(1.01);
+   transform: scale(1.01);
+
+   -webkit-transition: transform 1.02s ease-in-out;
+   -moz-transition:transform 1.02s ease-in-out;
+   -ms-transition:transform 1.02s ease-in-out;
+}
+
+
+
 /* popup modal */
 .popup-modal {
 	max-width: 550px;
