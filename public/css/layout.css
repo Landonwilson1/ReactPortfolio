@@ -428,6 +428,10 @@ ul#nav li.current a { color: yellow; }
 }
 
 /* Portfolio Content */
+
+.portfolio-item {
+   border-radius: 3px;
+}
 #portfolio-wrapper .columns { margin-bottom: 36px; }
 .portfolio-item .item-wrap {
    background: #fff;

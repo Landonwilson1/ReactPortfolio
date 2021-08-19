@@ -71,8 +71,14 @@ let resumeData = {
     ],
     "portfolio":[
       {
+        "name":"Proximo",
+        "description":"A simple social media application where users can signup, edit their profiles by adding bios, their location, birthday and even uploading a profile picture! Users also have the ability to make posts, edit them, and see all other users posts on the homepage where they can add comments.",
+        "imgurl":"images/proximo-screenshot.png",
+        "url":"https://blooming-wildwood-24520.herokuapp.com/"
+      },
+      {
         "name":"Stay Buzzin",
-        "description":"",
+        "description":"A simple social media application where users can signup, edit their profiles by adding bios, their location, birthday and even uploading a profile picture! Users also have the ability to make posts, edit them, and see all other users posts on the homepage where they can add comments.",
         "imgurl":"images/staybuzzin.herokuapp.com_.png",
         "url":"https://staybuzzin.herokuapp.com/"
       },
@@ -82,6 +88,7 @@ let resumeData = {
         "imgurl":"images/christianflows.github.io_IAMBORED_.png",
         "url":"https://christianflows.github.io/IAMBORED/"
       },
+
       {
         "name":"Weather app",
         "description":"",  
@@ -97,11 +104,6 @@ let resumeData = {
         "description":"",
         "imgurl":"images/localhost_3001_notes (1).png"
       },
-      {
-        "name":"Employee Tracke",
-        "description":"",
-        "imgurl":"images/employee-tracker.png"
-      }
     ],
     "testimonials":[
       {
