@@ -21,7 +21,7 @@ export default class Header extends Component {
             <div className="banner-text">
               <h3 style={{color:'#fff', fontSize:'24px'}}>Hi, My Name is Landon Wilson</h3> 
                <h1 style={{ fontFamily:'Canela Web', fontWeight:'600', marginTop:'14px'}}>A Full Stack Web Devloper.</h1>
-               <h3 style={{color:'#fff'}}>I am a {resumeData.role}.{resumeData.roleDescription}
+               <h3 style={{color:'#fff'}}> {resumeData.roleDescription}
                </h3>
                <hr/>
                <ul className="social">

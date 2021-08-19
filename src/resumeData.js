@@ -79,7 +79,8 @@ let resumeData = {
       {
         "name":"I am bored",
         "description":"",
-        "imgurl":"images/christianflows.github.io_IAMBORED_.png"
+        "imgurl":"images/christianflows.github.io_IAMBORED_.png",
+        "url":"https://christianflows.github.io/IAMBORED/"
       },
       {
         "name":"Weather app",
